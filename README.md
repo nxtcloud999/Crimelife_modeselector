@@ -13,7 +13,9 @@ Ein simples und responsives HTML-Frontend für einen **FiveM Crimelife Mode Sele
 
 ## 🖼️ Vorschau
 
-https://fraudcard.org/file/chrome_kCArq54c9U
+<p align="center">
+  <img src="https://fraudcard.org/file/chrome_kCArq54c9U" alt="Vorschau" width="600"/>
+</p>
 
 ## 🛠️ Installation
 
